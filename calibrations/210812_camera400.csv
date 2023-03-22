@@ -1,0 +1,9 @@
+path,/content/DeepSingleImageCalibration/images/210812_camera400.png
+pred_roll,4.411764705882348
+pred_rho,0.22647058823529406
+pred_vfov,86.0
+pred_k1_hat,-0.06705882352941178
+pred_roll_entropy,0.6377186179161072
+pred_rho_entropy,0.749322235584259
+pred_k1_hat_entropy,0.9999310374259949
+pred_fov_entropy,0.9999310374259949
